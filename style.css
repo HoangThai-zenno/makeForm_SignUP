@@ -87,6 +87,20 @@ html {
     line-height: 1.6rem;
     padding: 4px 0 0;
 }
+.form-group-radio{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.form-control-radio {
+    margin-left: 20px;
+    margin-right: 8px;
+    width: 16px;
+    height: 16px;
+}
+.label__sex{
+    font-size: 1.4rem;
+}
 
 .form-submit {
     outline: none;
